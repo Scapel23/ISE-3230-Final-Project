@@ -15,3 +15,10 @@ Operating Restrictions for Series A Trains: Ensure that each train from Series A
 Passenger Demand Fulfillment: Ensure that the demand of at least 250 passengers per hour is met. 
 The goal is to design a cost-effective and efficient train operation plan that meets the passenger demand and maintenance requirements 
 during the evening rush hour. 
+
+
+The data used for the project is as follows:
+cost = [Train 1[100, 110, 120], Train 2[110, 120, 125], Train 3[100, 115, 125],
+        Train 4[150, 155, 165], Train 5[105, 120, 115], Train 6[130, 140, 145], Train 7[135, 145, 150]]
+capacity = [Train 1[50, 50, 50], Train 2[60, 60, 60], Train 3[55, 55, 55],
+            Train 4[70, 60, 65], Train 5[55, 40, 50], Train 6[60, 55, 60], Train 7[60, 55, 60]]
